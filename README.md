@@ -24,45 +24,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```javascript
-const kanwar = {
-  education: "B.Tech Computer Science Engineering",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-
-  skills: [
-    "C++", "JavaScript", "React",
-    "Node.js", "Express.js", "MongoDB"
-  ],
-
-  achievements: {
-    leetcode: "400+ Problems Solved",
-    gssoc2026: "Top 50 Contributor",
-    mergedPRs: "80+"
-  },
-
-  currentlyLearning: [
-    "System Design",
-    "Cloud & DevOps",
-    "AI/ML",
-    "Advanced DSA"
-  ],
-
-  goals: [
-    "Google Summer of Code 2027",
-    "Software Engineering Internship",
-    "Build Scalable Products"
-  ],
-
-  motto: "Learn. Build. Contribute. Repeat."
-};
-```
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -86,57 +47,6 @@ const kanwar = {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kanwar05">
-<img src="https://img.shields.io/badge/PLANZO-Event%20Services%20Marketplace-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
-</a>
-
-</div>
-
-### 🎉 Planzo — Event Services Marketplace
-
-A full-stack marketplace connecting customers with event service vendors.
-
-- 🔐 JWT Authentication & Role-Based Dashboards
-- 💳 Razorpay Payment Integration
-- 💬 Real-Time Messaging with Socket.IO
-- 📅 Vendor Availability & Booking Management
-- ☁️ Cloudinary Media Uploads
-- ⭐ Verified Reviews & Admin Moderation
-
-**Stack:** React, Node.js, Express, MongoDB, Socket.IO
-
-🔗 [Live Demo](https://planzo-iota.vercel.app/)
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ALGOMENTOR-AI%20Powered%20DSA%20Platform-0891B2?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</div>
-
-### 🧠 AlgoMentor — AI-Powered DSA Platform
-
-A personalized DSA preparation and progress analytics platform.
-
-- 🧩 Dependency-Aware DSA Roadmaps using Graphs
-- 📊 Problem-Solving Analytics & Heatmaps
-- 🔁 Priority Queue-Based Revision Planner
-- 🎯 Weak Topic Detection
-- 💻 Integrated Coding Environment
-- 📈 Interview Readiness Tracking
-
-**Stack:** React, Node.js, Express, MongoDB, C++ Concepts
-
-🔗 [Live Demo](https://algo-mentor-virid.vercel.app/)
-
----
 
 ## 🏆 Achievements & Open Source
 
@@ -190,20 +100,7 @@ A personalized DSA preparation and progress analytics platform.
 
 </div>
 
----
 
-## 🎯 Current Focus
-
-```text
-📌 Mastering Data Structures & Algorithms
-📌 Preparing for GSoC 2027
-📌 Learning System Design & Scalability
-📌 Exploring Docker, Cloud & DevOps
-📌 Contributing to Open Source
-📌 Building Production-Ready Applications
-```
-
----
 
 ## 🤝 Let's Connect
 
